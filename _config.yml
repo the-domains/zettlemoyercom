@@ -1,0 +1,14 @@
+layout_spectrum: 0.10909101855941117
+typography_spectrum: 0.9634970366023481
+color:
+  brandStrength: 0.677497596014291
+  lightness: 0.4139892722014338
+  saturation: 0.35769552108831704
+  rhythmicContrast: 0.10728395381011069
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: zettlemoyer.com
