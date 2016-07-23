@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zettlemoyer.com]]></title>
+        <description><![CDATA[zettlemoyer.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 00:21:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the coffeetographer]]></title>
+            <description><![CDATA[<article><h1>All is in Bloom for Spring, A Cultural Calendar: April, 2016 - the coffeetographer</h1><p>hello april All is in bloom, spring included. April is here, and with it, the awakening of the years most coveted indoor and outdoor festivals returning cultural events, pop-ups and original programming worthy of streaming. Wake up your alfresco spirits with The Coffeetographer's calendar of coffee culture for April, that you should bookmark now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a04978806b62979e9539b72bd8795058308b009.jpg"></article>]]></description>
+            <link>http://thecoffeetographer.com/spring-culture-tribeca-netflix-flaked-lic-flea-kappi-cafe-coffee-blogger-april-2016/</link>
+            <guid isPermaLink="false">37889ecd-c1ea-46cf-bef9-329e2faf8a81</guid>
+            <pubDate>Sat, 23 Jul 2016 00:21:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
