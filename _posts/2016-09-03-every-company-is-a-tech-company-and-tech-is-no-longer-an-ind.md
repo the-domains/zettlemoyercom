@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T12:09:32.290Z'
+datePublished: '2016-09-03T12:09:48.052Z'
 sourcePath: >-
   _posts/2016-09-03-every-company-is-a-tech-company-and-tech-is-no-longer-an-ind.md
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ author:
     url: 'http://web.mit.edu'
     avatar: {}
 via: {}
-dateModified: '2016-09-03T12:09:31.958Z'
+dateModified: '2016-09-03T12:09:47.626Z'
 title: Every Company Is a Tech Company and Tech Is No Longer an Industry
 app_links: []
 publisher:
